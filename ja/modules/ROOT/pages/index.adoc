@@ -1,2 +1,2 @@
-= Manual
+= マニュアル
 :page-en: index
